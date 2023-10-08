@@ -11,6 +11,8 @@ $Diff["Adobe"] = "23.2"
 $Diff["Citrix"] = "22.0"
 $Diff["hardhik"] = "1.0"
 
+#the common hash table can be machine installed application.
+#the Diff hash table can be Input application.
 
 $Identical = @{}
 $Nonidentical = @{}
